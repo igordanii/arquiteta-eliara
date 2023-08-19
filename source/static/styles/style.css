@@ -1,0 +1,48 @@
+
+
+body {
+   
+    background-position: center;
+    background-size: cover;
+}
+
+.container-fluid {
+   margin: 0;
+   padding: 0;
+}
+
+.form-container {
+    background: #ecf0f1;
+    width: 60%;
+    height: 100%;
+    position:fixed;
+    top: 0;
+    right: 0;
+    border-radius: 15px 0 0 15px;
+}
+
+.information-container{
+    background-image: linear-gradient(rgba(155, 89, 182, 0.8),rgba(155, 89, 182,0.8)),url("../images/backgorund-image.jpeg.jpg");   
+    width: 42%;
+    height: 100%;
+    position:fixed;
+    top: 0;
+    left: 0;
+    text-align: center;
+}
+
+.information{
+    margin-top: 35%;
+    margin-left: 15%;
+    margin-right: 20%;
+}
+
+.information h3{
+    color: #ecf0f1;
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+.information p{
+    color: #ecf0f1;
+}
