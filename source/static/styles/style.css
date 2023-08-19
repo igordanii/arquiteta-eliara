@@ -22,7 +22,7 @@ body {
 }
 
 .information-container{
-    background-image: linear-gradient(rgba(155, 89, 182, 0.8),rgba(155, 89, 182,0.8)),url("../images/backgorund-image.jpeg.jpg");   
+    background-image: linear-gradient(rgba(39, 174, 96,0.7),rgba(46, 204, 113,0.7)),url("../images/backgorund-image.jpeg.jpg");   
     width: 42%;
     height: 100%;
     position:fixed;
